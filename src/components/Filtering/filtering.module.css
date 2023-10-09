@@ -1,0 +1,9 @@
+.inputBtns{
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+    color: #000;
+    border-color: #ccc;
+}
